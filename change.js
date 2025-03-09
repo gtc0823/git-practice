@@ -1,2 +1,1 @@
-console.log(change1www);
-console.log(aaa);
+console.log(change);
